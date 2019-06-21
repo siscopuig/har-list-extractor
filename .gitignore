@@ -4,3 +4,4 @@
 src/har/
 src/output/
 venv
+XDG_CACHE_HOME
